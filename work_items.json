@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Monthly Report",
+        "type": "document",
+        "file_path": "C:/Users/piyus/Desktop/Personal/offencial work/self automate ai/monthly_report.pdf",
+
+        "email_recipients": ["recipient@example.com"],
+        "schedule": "monthly"
+    }
+]
